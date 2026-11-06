@@ -2,7 +2,7 @@
 
 > **Modern POS, Inventory, Khata & AI-powered Shop Management for Automobile Spare Parts Businesses**
 
-Apna Khata is a mobile-first, full-stack shop management platform built for Indian automobile spare-parts retailers, workshops, garages, and small-to-medium distributors.
+ZashBiz is a mobile-first, full-stack shop management platform built for Indian automobile spare-parts retailers, workshops, garages, and small-to-medium distributors.
 
 It brings **counter billing, digital Khata, customer credit tracking, inventory, purchases, Short Maal, team management, reports, WhatsApp sharing, audio feedback, and AI assistance** into one practical workflow.
 
