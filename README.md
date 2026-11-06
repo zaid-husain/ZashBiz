@@ -1,4 +1,4 @@
-# ZashBiz | AI-Powered Shop Management System
+# ZashBiz
 
 > **Modern POS, Inventory, Khata & AI-powered Shop Management for Automobile Spare Parts Businesses**
 
