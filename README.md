@@ -1,4 +1,4 @@
-# Apna Khata
+# ZashBiz | AI-Powered Shop Management System
 
 > **Modern POS, Inventory, Khata & AI-powered Shop Management for Automobile Spare Parts Businesses**
 
